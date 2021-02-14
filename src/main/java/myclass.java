@@ -1,4 +1,4 @@
- class my class{
+ class myclass{
 	
 public void method1{
 	
